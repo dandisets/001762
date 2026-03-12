@@ -11,8 +11,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Haber Lab Connectome - Public data (2026). (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001762/draft
+citation: Haber, Suzanne; Lehman, Julia (2026) Haber Lab Connectome - Public data
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001762/draft
 contributor:
 - awardNumber: 5 P50 MH 106435
   includeInCitation: false
@@ -26,6 +26,12 @@ contributor:
   name: Gunalan, Kabilar
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- includeInCitation: true
+  name: Haber, Suzanne
+  schemaKey: Person
+- includeInCitation: true
+  name: Lehman, Julia
   schemaKey: Person
 dateCreated: '2026-03-06T20:22:27.775687+00:00'
 description: Work in progress data release from the Haber Lab.
